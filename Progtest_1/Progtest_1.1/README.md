@@ -1,5 +1,7 @@
 # Domácí úloha 01
 
+### Trojúhelníky #1
+
 Úkolem je vytvořit program, který bude porovnávat dvojice trojúhelníků.
 
 
