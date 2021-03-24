@@ -1,6 +1,6 @@
 # Zahřívací úloha
 
-Úkolem je vytvořit program, který bude zobrazovat vybrané citáty.
+Úkolem je vytvořit program, který bude zobrazovat vybrané citáty podle vstupu.
 
 
 # Hodnoceni
