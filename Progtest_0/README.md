@@ -104,7 +104,7 @@ luj
     - Max doba běhu: 0.005 s (limit: 1.000 s)
     - Celková doba běhu: 0.045 s
     - Úspěch v závazném testu, hodnocení: 100.00 %
-  -Celkové hodnocení: 100.00 % (= 1.00 * 1.00)
+  - Celkové hodnocení: 100.00 % (= 1.00 * 1.00)
 - Celkové procentní hodnocení: 100.00 %
 - Bonus za včasné odevzdání: 0.10
 - Celkem bodů: 1.00 * ( 1.00 + 0.10 ) = 1.10
