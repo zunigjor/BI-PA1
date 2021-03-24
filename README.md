@@ -5,13 +5,13 @@ All of the work here is written in C.
 
 |Uloha            | body  |
 |-----------------|-------|
-| Zahřívací úloha	| 1.10 :blush:	|
-| Domácí úloha 01	| 5.50 :blush:	|
-| Domácí úloha 02	| 5.50 :blush:	|
-| Domácí úloha 03	| 5.05 :flushed:	|
-| Domácí úloha 04	| 5.50 :blush:	|
-| Domácí úloha 05	| 5.50 :blush:	|
-| Domácí úloha 06	| 5.00 :blush:	|
-| Domácí úloha 07	| 0.00 :disappointed_relieved:	|
-| Domácí úloha 08	| 5.50 :blush:	|
-| Code review	    | 5.00 :blush:	|
+| Zahřívací úloha	| 1.10 /1.00 :blush:	|
+| Domácí úloha 01	| 5.50 /5.00 :blush:	|
+| Domácí úloha 02	| 5.50 /5.00 :blush:	|
+| Domácí úloha 03	| 5.05 /5.00 :flushed:	|
+| Domácí úloha 04	| 5.50 /5.00 :blush:	|
+| Domácí úloha 05	| 5.50 /5.00 :blush:	|
+| Domácí úloha 06	| 5.00 /5.00 :blush:	|
+| Domácí úloha 07	| 0.00 /5.00 :disappointed_relieved:	|
+| Domácí úloha 08	| 5.50 /5.00 :blush:	|
+| Code review	    | 5.00 /5.00 :blush:	|
