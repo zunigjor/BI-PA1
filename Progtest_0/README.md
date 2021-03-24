@@ -92,7 +92,7 @@ luj
 - Vstup typu 1.23 případně 1abcd považujte za správný. Základní použití funkce scanf bude takové vstupy interpretovat jako číslo (zde číslo 1) a zbytek vstupu nebude číst. Šlo by samozřejmě program rozšířit, aby takovéto vstupy odmítal, v této úloze to ale není potřeba dělat. Automatizované testování vstupy tohoto typu se nezadává.
 
 # Hodnoceni
--Hodnotitel: automat  
+- Hodnotitel: automat  
   - Program zkompilován  
   - Test 'Základní test s parametry podle ukázky': Úspěch
     - Dosaženo: 100.00 %, požadováno: 100.00 %
